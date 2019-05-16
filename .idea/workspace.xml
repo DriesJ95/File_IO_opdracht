@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43f1753b-6b9c-4ec6-8864-e0e6aa353c89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_IO_opdracht.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H21_FileIO_Serialisation/src/ReadObjectApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H21_FileIO_Serialisation/src/WriteObjectApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_FryShack" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_FryShack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/0/c/0cf8c27f77fb96a54a8450e74eb532ac6a7a8865" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/0/c/0cf8c27f77fb96a54a8450e74eb532ac6a7a8865" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/0/f/0fd96fb28cfb0d446b3b09a076a14a2d7f7c4b96" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/0/f/0fd96fb28cfb0d446b3b09a076a14a2d7f7c4b96" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/1/2/1258eea9559015ecf192a4c18385d48c73fb6ff9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/1/c/1ccb5b770b0478157b66a9430f78f20452d56fc0" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/1/c/1ccb5b770b0478157b66a9430f78f20452d56fc0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/2/7/27cc061977ab09500b7c1cf81558cc9a0fa12a61" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/2/7/27cc061977ab09500b7c1cf81558cc9a0fa12a61" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/3/2/3217f7bbda9f0893c82e377323ec1bd53d5fcd97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/3/3/33e98b323a5181a7788c25858c1d1708c72ae819" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/3/3/33e98b323a5181a7788c25858c1d1708c72ae819" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/4/7/4708a981d7c46445af45d9afc63f1085be8fbc24" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/4/7/4708a981d7c46445af45d9afc63f1085be8fbc24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/5/1/512faf405c0e76bf2a24fec75004c9fce30fd5cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/5/2/52e4eab2c3bee5bc8850af73a6e8fbb69529c190" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/5/2/52e4eab2c3bee5bc8850af73a6e8fbb69529c190" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/b/6/b6e4651c7f4baf216fc84930642b49fe1968a02a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/d/d/dd34d17e1c8424818e7273a1e52e0ebf99f4c9c3" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/d/d/dd34d17e1c8424818e7273a1e52e0ebf99f4c9c3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/e/9/e9ea0013daa77b00c7548d20d502c47121c202d4" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/e/9/e9ea0013daa77b00c7548d20d502c47121c202d4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/f/7/f7431c2d9c85d8269566eda7a9956da857347ed8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a1e8ad77f9e64f7c7ef32ebb79012e07219968e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a1e8ad77f9e64f7c7ef32ebb79012e07219968e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c230501d9adf2e03fee84a3ed1ca47f720af505" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c230501d9adf2e03fee84a3ed1ca47f720af505" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk12" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_BoatDock" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_BoatDock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_SmoothieBar" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_SmoothieBar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_fnf08" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_fnf08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk13_gameconsole" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk13_gameconsole" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_Garage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_Garage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk15_HogerLager" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk15_HogerLager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hoofdstuk7_Cats" beforeDir="false" afterPath="$PROJECT_DIR$/../Hoofdstuk7_Cats" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/FileUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="43" column="99" lean-forward="true" selection-start-line="43" selection-start-column="99" selection-end-line="43" selection-end-column="99" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#list#0;class#FileUtils#0" />
+                <element signature="method#getExtension#0;class#FileUtils#0" />
+                <element signature="method#createAndCopyDirectory#0;class#FileUtils#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/mainApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/sortingstuff/mainApp.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/sortingstuff/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/be/intecbrussel/mainApp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="File_IO_opdracht" type="b2602c69:ProjectViewProjectNode" />
+              <item name="File_IO_opdracht" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="File_IO_opdracht" type="b2602c69:ProjectViewProjectNode" />
+              <item name="File_IO_opdracht" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="File_IO_opdracht" type="b2602c69:ProjectViewProjectNode" />
+              <item name="File_IO_opdracht" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="intecbrussel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources/UnsortedFolder" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dries\IdeaProjects\File_IO_opdracht\src\resources\UnsortedFolder" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.mainApp (1)">
+    <configuration name="mainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.mainApp" />
+      <module name="File_IO_opdracht" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.sortingstuff.mainApp" />
+      <module name="File_IO_opdracht" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.sortingstuff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mainApp (1)" />
+        <item itemvalue="Application.mainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43f1753b-6b9c-4ec6-8864-e0e6aa353c89" name="Default Changelist" comment="" />
+      <created>1556795759703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556795759703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.019189766" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="-1920" y="435" width="1920" height="1038" id="Run" order="2" type="FLOATING" weight="0.5785482" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5287107" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/resources/UnsortedFolder/test 1/SOAD.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/SortedFolder/summary.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="497" column="16" selection-start-line="497" selection-start-column="16" selection-end-line="497" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="43" column="99" lean-forward="true" selection-start-line="43" selection-start-column="99" selection-end-line="43" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#list#0;class#FileUtils#0" />
+            <element signature="method#getExtension#0;class#FileUtils#0" />
+            <element signature="method#createAndCopyDirectory#0;class#FileUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/intecbrussel/mainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
